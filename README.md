@@ -5,11 +5,13 @@ Develop an methodlogy to determine the onset of stacked tubes's instability. Thi
 
 ## Method
 * A systematic study on prismatic bifurcation of stacked dielectric cylinders is performed under coupled mechanical and electrical loading conditions. The system consists of two stacked cylindrical layers, each modeled as a homogeneous, isotropic dielectric solid.
-
+  
+<img width="433" height="236" alt="image" src="https://github.com/user-attachments/assets/23810f5a-80a2-42f4-bf7b-25dc514f123d" />
 The cylinders are subjected to:
 * Uniform internal pressure applied on the inner surface of the inner cylinder
 * Electric loading across the thickness of the cylinder
-
+  
+<img width="475" height="526" alt="image" src="https://github.com/user-attachments/assets/82dcc321-cda6-4014-bcfa-e649c2c006a6" />
 Two axial constraints are considered:
 * Axially free cylinders
 * Axially stretched cylinders
@@ -31,3 +33,6 @@ Two axial constraints are considered:
 * Higher total thickness of stacked cylinders requires higher critical voltage to trigger prismatic bifurcation
 * The effect of internal pressure on the critical voltage is negligible
 * For axially free tubes at higher pressurization, the system undergoes a snap-through transition instead of prismatic bifurcation
+
+## References
+* Patra, S., & Roychowdhury, S. (2025). Prismatic bifurcation of electro-mechanically loaded stacked di-electric cylinders. International Journal of Non-Linear Mechanics, 175, 105119. https://doi.org/10.1016/j.ijnonlinmec.2025.105119
